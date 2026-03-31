@@ -74,4 +74,5 @@ Made as part of BYOP (Bring Your Own Project) for Fundamentals of AI & ML.
 
 
 <img width="1347" height="1055" alt="image" src="https://github.com/user-attachments/assets/3542560e-08a5-4d20-a71c-b7b3ceea63dc" />
+<img width="1397" height="1079" alt="Screenshot 2026-03-31 214406" src="https://github.com/user-attachments/assets/149786ba-f36d-4eed-bf2e-bc6d712f85f7" />
 
