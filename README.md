@@ -42,7 +42,7 @@ The goal is not perfect accuracy, but to understand how ML can be applied to rea
 1. Install required libraries:
 2. pip install pandas scikit-learn streamlit
 2. Run the app:
- Example
+   streamlit run app.py
 
 Input:
 - CGPA: 8  
