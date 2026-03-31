@@ -70,3 +70,8 @@ Add more features like skills, projects, etc.
 
  Author
 Made as part of BYOP (Bring Your Own Project) for Fundamentals of AI & ML.
+
+
+
+<img width="1347" height="1055" alt="image" src="https://github.com/user-attachments/assets/3542560e-08a5-4d20-a71c-b7b3ceea63dc" />
+
